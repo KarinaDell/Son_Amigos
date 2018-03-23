@@ -1,0 +1,10 @@
+C:\Users\20135214\Desktop\Amigos\Amigos\obj\Debug\Amigos.csprojResolveAssemblyReference.cache
+C:\Users\20135214\Desktop\Amigos\Amigos\obj\Debug\Amigos.Form1.resources
+C:\Users\20135214\Desktop\Amigos\Amigos\obj\Debug\Amigos.Properties.Resources.resources
+C:\Users\20135214\Desktop\Amigos\Amigos\obj\Debug\Amigos.csproj.GenerateResource.Cache
+C:\Users\20135214\Desktop\Amigos\Amigos\obj\Debug\Amigos.csproj.CoreCompileInputs.cache
+C:\Users\20135214\Desktop\Amigos\Amigos\bin\Debug\Amigos.exe.config
+C:\Users\20135214\Desktop\Amigos\Amigos\bin\Debug\Amigos.exe
+C:\Users\20135214\Desktop\Amigos\Amigos\bin\Debug\Amigos.pdb
+C:\Users\20135214\Desktop\Amigos\Amigos\obj\Debug\Amigos.exe
+C:\Users\20135214\Desktop\Amigos\Amigos\obj\Debug\Amigos.pdb
